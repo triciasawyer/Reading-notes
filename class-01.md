@@ -12,7 +12,7 @@ Three things I can do to help keep myself in a growth mindset would be to...
 
  🤓
  
- ## Lab 01
+ ## Lab 01b
 
 1. What is Markdown?
 2. Why do we use Markdown?
