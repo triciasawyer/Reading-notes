@@ -19,7 +19,7 @@ Three things I can do to help keep myself in a growth mindset would be to...
 A lightweight markup language for creating formatted text
 
 2. **Why do we use Markdown?**
-We use markdown because it's easier and quicker to write code, without having to write HTML with tags. It is alos very portable so it cna be translated to just about anywhere.
+We use markdown because it's easier and quicker to write code, without having to write HTML with tags. It is also very portable so it can be translated to just about anywhere.
 
 3. **What symbol will create a heading in Markdown?**
 #
