@@ -1,12 +1,28 @@
 # class 2
 
-1. What are four important features to look for in a text editor?
-2. What do the following commands do?
+## Read 02- The coders computer
+
+There are four important features to look for in a text editor... 
+1. code completion
+2. syntax highlighting
+3. a variety of themes (to reduce eye strain and fatigue)
+4. Options to choose from a healthy selection of extensions available when you need them
+
+
+6. What do the following commands do?
 - pwd
 - ls
 - cd
 - mkdir
 - touch
+
+pwd stands for Print Working Directory which tells you what your current working directory is.
+ls means list files, and it lists all files in the current directory except for hidden files.
+cd stands for change directory and it moves you to another directory
+mkdir stands for make directory and this command can create multiple directories at once
+The touch command allows you to modify a timestamp and create new files 
+
+
 
 3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
 - cd projects
@@ -14,3 +30,5 @@
 - touch new-project/newfile.md
 - cd ..
 - ls projects/new-project
+
+cd projects 
