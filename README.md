@@ -8,7 +8,7 @@
 
 ## Explain the Growth Mindset
 
-Having a growth mindset is someone whos thoughts are more on the positive side, and they tend to think more half full when it comes to approaching things like challenges, effort, and criticism.
+Having a growth mindset is someone whos thoughts are more on the positive side, and they tend to think of the glass more half full when it comes to approaching things like challenges, effort, and criticism.
 Three things I can do to help keep myself in a growth mindset would be to...
 
 - Take a step back to reset
