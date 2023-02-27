@@ -12,7 +12,8 @@ Having a growth mindset is someone whos thoughts are more on the positive side, 
 Three things I can do to help keep myself in a growth mindset would be to...
 
 - Take a step back to reset
-* Tell myself, >I am greatful to be here, and I chose to be here
+* Tell myself that 
+>I am greatful to be here, and I chose to be here
 + Think of all the things that I am working toward
 
 :nerd_face:
