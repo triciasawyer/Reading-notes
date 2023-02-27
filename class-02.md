@@ -25,9 +25,9 @@ The touch command allows you to modify a timestamp and create new files
 
 
 3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
-- cd projects
-- mkdir new-project
-- touch new-project/newfile.md
+While using cd projects, cd will direct you to the specific file, projects.
+Using mkdir new-project will create multiple directories, sepcifically a new project.
+With touch new-project/newfile.md, this command line with 
 - cd ..
 - ls projects/new-project
 
