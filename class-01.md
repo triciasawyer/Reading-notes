@@ -12,8 +12,8 @@ Three things I can do to help keep myself in a growth mindset would be to...
 
  🤓
  
- 
- ## Reading 01
+
+## Reading 01
 
 1. What is Markdown?
 
