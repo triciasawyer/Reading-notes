@@ -19,4 +19,4 @@ git commit -a.
 git push.
 
 
-## Lab 03
+## Lab 03- Thoughts and observations
