@@ -1,6 +1,5 @@
 # Class 3
 
-
 ## Read 03- Revisions and the cloud
 
 **What is Version Control?**
@@ -18,5 +17,10 @@ git commit -a.
 **What is the command to send your changed files to Github?**
 git push.
 
-
 ## Lab 03- Thoughts and observations
+
+**Terminal**
+- Git status
+- Git add .
+- Git commit -m 'specify what you added/changed'
+- Git push
