@@ -9,8 +9,4 @@
 -[102 Class 3](class-03.md)
 
 
-### Links in markdown
-
-[102-Markdown-1](reading-notes-01.md)
-
 
