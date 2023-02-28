@@ -8,5 +8,8 @@
 
 -[102 Class 3](class-03.md)
 
+-[102 Class 4](class-04.md)
+
+-[102 Class 5](class-05.md)
 
 
