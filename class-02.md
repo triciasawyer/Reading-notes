@@ -2,7 +2,7 @@
 
 ## Read 02- The coders computer
 
-There are four important features to look for in a text editor... 
+1. There are four important features to look for in a text editor... 
 - code completion
 + syntax highlighting
 * a variety of themes (to reduce eye strain and fatigue)
@@ -10,7 +10,7 @@ There are four important features to look for in a text editor...
 
 
 
-6. What do the following commands do?
+2. What do the following commands do?
 - pwd
 - ls
 - cd
