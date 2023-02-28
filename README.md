@@ -17,4 +17,6 @@ Hey, my name is Tricia and this is my reading notes for code 102. Check out my [
 
 -[102 Class 6](class-06.md)
 
+-[102 Class 7](class-07.md)
 
+-[102 Class 8](class-08.md)
