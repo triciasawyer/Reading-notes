@@ -2,6 +2,8 @@
 
 ## Lab 04- Structure Web Pages with HTML
 
+This topic matters because it is the basis of what we will eventually be learning and getting more into. So understanding what HTML is itself, and some of the main points within that, will overall help with understanding to write HTML when we get to that.
+
 **What is HTML and why do we use it?**
 HTML is a markup language that defines the structure of your content using several elements for different uses
 
