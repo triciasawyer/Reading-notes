@@ -1,5 +1,8 @@
 # reading-notes-102
 
+Hey, my name is Tricia and this is my reading notes for code 102. Check out my profile! 
+
+
 ## Table Of Contents
 
 -[102 Class 1](class-01.md)
