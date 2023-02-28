@@ -15,4 +15,6 @@ Hey, my name is Tricia and this is my reading notes for code 102. Check out my [
 
 -[102 Class 5](class-05.md)
 
+-[102 Class 5](class-06.md)
+
 
