@@ -3,10 +3,11 @@
 ## Read 02- The coders computer
 
 There are four important features to look for in a text editor... 
-1. code completion
-2. syntax highlighting
-3. a variety of themes (to reduce eye strain and fatigue)
-4. Options to choose from a healthy selection of extensions available when you need them
+- code completion
++ syntax highlighting
+* a variety of themes (to reduce eye strain and fatigue)
++ Options to choose from a healthy selection of extensions available when you need them
+
 
 
 6. What do the following commands do?
