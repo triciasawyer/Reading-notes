@@ -8,7 +8,7 @@ The purpose of css is to create and munipulate the presenation of your content, 
 **What are the three ways to insert CSS into your project?**
 External CSS, Internal CSS, and Inline CSS
 
-**Write an example of a CSS rule that would give all <p> elements red text.**
-"p [
+**Write an example of a CSS rule that would give all p elements red text.**
+p [
     color: red
-]"
+]
