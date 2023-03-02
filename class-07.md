@@ -2,6 +2,8 @@
 
 ## Reading:07- Programming with Javascript
 
+This topic matters because we need to understand Javascript in order to use it along with html and css.
+
 **What is control flow?**
 Control flow is the order that the computer executes statements in a script. In a normal control flow, it goes in order from the first line in the file to the last line. Other structures may change the control flow, such as conditionals and loops.
 
