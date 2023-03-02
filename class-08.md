@@ -1,6 +1,5 @@
 # class 8
 
-
 ## Reading: 08- Operators and loops
 
 This topic matters because as we work with Javascript, we will need to understand how to navigate through it and know what everything means. By understanding operators and loops, we can better use Javascript to create what we want.
@@ -17,5 +16,4 @@ When a specified condition evalutes to false
 **How many times will a 'while' loop execute?**
 It will iterate as long as n is less than 3.
 
-
-## Things I want to know more about
+### Things I want to know more about
